@@ -1,7 +1,10 @@
 # ✈️ AeroBI
+<br>
 
 ## 📌 Overview
 The airline industry plays a crucial role in global transportation, but flight delays and cancellations remain persistent challenges, causing inconvenience for passengers and operational inefficiencies for airlines. This project aims to analyze historical flight data, identify patterns, and extract insights to improve operational efficiency and customer experience.
+<br><br>
+
 
 ## 🎯 Objectives
 - Analyze historical flight data to identify trends in delays and cancellations.
@@ -9,6 +12,8 @@ The airline industry plays a crucial role in global transportation, but flight d
 - Perform sentiment analysis on customer reviews to understand passenger experiences.
 - Design and implement a Data Warehouse (DW) with a Star Schema for efficient data analysis.
 - Develop interactive visualizations and real-time dashboards to provide actionable insights.
+<br><br>
+
 
 ## 📂 Project Components
 <ol>
@@ -34,6 +39,7 @@ The airline industry plays a crucial role in global transportation, but flight d
 <li>Data Visualization</li>
   <ul>
     <li>Power BI dashboards were created to present insights effectively:</li></ul></ol>
+<br>
 
 
 ## 📊 Key Dashboards:
@@ -53,6 +59,8 @@ The airline industry plays a crucial role in global transportation, but flight d
   <li>Displays live flight status, including departure delays and reasons</li>
   <li>Maps flight routes and updates in real-time</li></ul>
 </ol>
+<br>
+
 
 ## 🚀 Technologies Used
 1. Python (Pandas, Numpy, Matplotlib, Seaborn, NLTK, TextBlob) <br>
@@ -60,6 +68,8 @@ The airline industry plays a crucial role in global transportation, but flight d
 3. Power BI (Data Visualization, Dashboarding) <br>
 4. Jupyter Notebooks (EDA, Sentiment Analysis) <br>
 5. Kaggle (Dataset Source) <br>
+<br><br>
+
 
 ## 📜 Business Implications
 The insights from this project can help airlines, passengers, and industry analysts in the following ways:
@@ -67,11 +77,14 @@ The insights from this project can help airlines, passengers, and industry analy
 2. Customer Service Teams: Address key concerns from customer reviews to enhance satisfaction.
 3. Investors & Analysts: Use NPS and performance metrics to assess airline reputation.
 4. Passengers: Make informed decisions based on airline reviews and reliability scores.
+<br><br>
+
 
 ## 📢 Contributors
 Tejaswini Kshirsagar <br>
 Minita Joshee <br>
 Neha Bharambe <br>
+<br><br>
 
 
 ## 🔗 References
